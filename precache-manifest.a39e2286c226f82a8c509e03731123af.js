@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "036b4d5443036f596fc1a11bc0bb5df4",
+    "revision": "4ee35e910cd578a49abe65ad6943a12c",
     "url": "/calendar-for-study/index.html"
   },
   {
-    "revision": "499b51658270733b79ea",
+    "revision": "1d56208cdbd716d10175",
     "url": "/calendar-for-study/static/css/main.ad4c1c31.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calendar-for-study/static/js/2.ab929898.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "499b51658270733b79ea",
-    "url": "/calendar-for-study/static/js/main.040781b4.chunk.js"
+    "revision": "1d56208cdbd716d10175",
+    "url": "/calendar-for-study/static/js/main.aa457f87.chunk.js"
   },
   {
     "revision": "1d4327c6de676cc17597",
