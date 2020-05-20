@@ -30,7 +30,7 @@ const Day = (props) => {
         return (
             <React.Fragment>
                 <div className={classes.Day} onClick={descriptionHandler}>
-                    <p>{course.date <  30 && course.date}</p>
+                    <p>{course.date <  32 && course.date}</p>
                     {amount}
                 </div>
                 {dayDescription}
