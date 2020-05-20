@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/calendar-for-study/static/css/main.ad4c1c31.chunk.css",
-    "main.js": "/calendar-for-study/static/js/main.aa457f87.chunk.js",
-    "main.js.map": "/calendar-for-study/static/js/main.aa457f87.chunk.js.map",
+    "main.css": "/calendar-for-study/static/css/main.b4bcdd56.chunk.css",
+    "main.js": "/calendar-for-study/static/js/main.69e72362.chunk.js",
+    "main.js.map": "/calendar-for-study/static/js/main.69e72362.chunk.js.map",
     "runtime-main.js": "/calendar-for-study/static/js/runtime-main.043be56d.js",
     "runtime-main.js.map": "/calendar-for-study/static/js/runtime-main.043be56d.js.map",
-    "static/js/2.ab929898.chunk.js": "/calendar-for-study/static/js/2.ab929898.chunk.js",
-    "static/js/2.ab929898.chunk.js.map": "/calendar-for-study/static/js/2.ab929898.chunk.js.map",
+    "static/js/2.6ba6a22c.chunk.js": "/calendar-for-study/static/js/2.6ba6a22c.chunk.js",
+    "static/js/2.6ba6a22c.chunk.js.map": "/calendar-for-study/static/js/2.6ba6a22c.chunk.js.map",
     "index.html": "/calendar-for-study/index.html",
-    "precache-manifest.a39e2286c226f82a8c509e03731123af.js": "/calendar-for-study/precache-manifest.a39e2286c226f82a8c509e03731123af.js",
+    "precache-manifest.b1aafc6d0f0c5e5249ed60b817530f44.js": "/calendar-for-study/precache-manifest.b1aafc6d0f0c5e5249ed60b817530f44.js",
     "service-worker.js": "/calendar-for-study/service-worker.js",
-    "static/css/main.ad4c1c31.chunk.css.map": "/calendar-for-study/static/css/main.ad4c1c31.chunk.css.map",
-    "static/js/2.ab929898.chunk.js.LICENSE.txt": "/calendar-for-study/static/js/2.ab929898.chunk.js.LICENSE.txt",
+    "static/css/main.b4bcdd56.chunk.css.map": "/calendar-for-study/static/css/main.b4bcdd56.chunk.css.map",
+    "static/js/2.6ba6a22c.chunk.js.LICENSE.txt": "/calendar-for-study/static/js/2.6ba6a22c.chunk.js.LICENSE.txt",
     "static/media/clock.png": "/calendar-for-study/static/media/clock.1e58e66e.png",
     "static/media/logo.svg": "/calendar-for-study/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.043be56d.js",
-    "static/js/2.ab929898.chunk.js",
-    "static/css/main.ad4c1c31.chunk.css",
-    "static/js/main.aa457f87.chunk.js"
+    "static/js/2.6ba6a22c.chunk.js",
+    "static/css/main.b4bcdd56.chunk.css",
+    "static/js/main.69e72362.chunk.js"
   ]
 }
